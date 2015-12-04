@@ -1,2 +1,2 @@
 # CocoapodTutorials
-Stores documents for creating, managing, and using private cocoapods
+Stores tutorials for creating, managing, and using private cocoapods
