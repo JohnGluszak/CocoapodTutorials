@@ -1,7 +1,9 @@
 **1) Make sure anyone using your pod has access to your spec repo**
 
 **2) Anyone using this pod will also need to run the terminal command**  
-```pod repo add [SPEC_REPO_NAME] [SPEC_REPO_URL]```  
+```
+pod repo add [SPEC_REPO_NAME] [SPEC_REPO_URL]
+```  
 *This is the same command you ran when creating the private pod. It clones your spec repo to your local cocoapods.*  
 
   
