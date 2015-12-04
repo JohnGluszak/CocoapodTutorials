@@ -15,4 +15,6 @@ source ‘https://github.com/CocoaPods/Specs.git’
 *The first line tells cocoapods where to look for your private pods. The second line tells cocoapods where to look for all public pods. Without declaring a source in your podfile, cocoapods uses the ‘https://github.com/CocoaPods/Specs.git’ source by default. However you must make this explicit when you declare a new source.*
 
 **4) Use your private pod like any other pod**  
-```pod ‘PRIVATE_POD_NAME’```
+```
+pod ‘PRIVATE_POD_NAME’
+```
