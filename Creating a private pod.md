@@ -46,7 +46,7 @@ end
 *Under ’s.source’ field, you’ll need to specify a ‘tag’ parameter. Using ’s.version.to_s’ tells the podspec to use the ’s.version’ field as the tag. It is recommended that you use this. We’ll talk more about tagging later in the tutorial.*  
 
 **6) Add a license file to your project repo**  
-*Even though this will be a private pod, it still needs a license file. In the above podspec, the ’s.license’ field points to an MIT type license contained in a text file named ‘MIT-License.txt’ in the project repo. You’ll need to manually add your own. For a basic MIT license, you can simply copy the text here (http://opensource.org/licenses/MIT) into a txt file, fill out your name and date, and save it in your project repo.*
+*Even though this will be a private pod, it still needs a license file. In the above podspec, the ’s.license’ field points to an MIT type license contained in a text file named ‘MIT-License.txt’ in the project repo. You’ll need to manually add your own. For a basic MIT license, you can simply copy the text [here](http://opensource.org/licenses/MIT) into a txt file, fill out your name and date, and save it in your project repo.*
 
 **7) Tag your project repo**
 ```
