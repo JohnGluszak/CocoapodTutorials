@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.version      = “0.0.1”
   s.summary      = “This is an example podspec file”
   s.homepage     = "https://github.com/MY_ACCOUNT”
-  s.author             = { “John Smith” => "john.smith@gmail.com" }
+  s.author       = { “John Smith” => "john.smith@gmail.com" }
 
   s.license      = { :type => "MIT", :file => "MIT-License.txt" }
 
